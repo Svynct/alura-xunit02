@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c642874c-c521-4700-bc2c-2d62b5789443": {
+      "ProjectGuid": "c642874c-c521-4700-bc2c-2d62b5789443",
+      "DisplayName": "Alura.CoisasAFazer.Testes",
+      "ColorIndex": 0
+    },
+    "da69b76e-d68c-4d09-9b34-be428ce222d7": {
+      "ProjectGuid": "da69b76e-d68c-4d09-9b34-be428ce222d7",
+      "DisplayName": "Alura.CoisasAFazer.Infrastructure",
+      "ColorIndex": 1
+    },
+    "447762a2-4a28-4086-8373-d03393dac304": {
+      "ProjectGuid": "447762a2-4a28-4086-8373-d03393dac304",
+      "DisplayName": "Alura.CoisasAFazer.Core",
+      "ColorIndex": 2
+    },
+    "33a3fd7a-fed3-4e79-953c-be31ec561f7a": {
+      "ProjectGuid": "33a3fd7a-fed3-4e79-953c-be31ec561f7a",
+      "DisplayName": "Alura.CoisasAFazer.WebApp",
+      "ColorIndex": 3
+    },
+    "40d8bd60-fc11-454a-8e2b-03aa801e592e": {
+      "ProjectGuid": "40d8bd60-fc11-454a-8e2b-03aa801e592e",
+      "DisplayName": "Alura.CoisasAFazer.Services",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
